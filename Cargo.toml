@@ -1,0 +1,10 @@
+[package]
+name        = "experiment-rusty_v8"
+version     = "0.1.0"
+edition     = "2021"
+authors     = ["kanarus <kanarus786@gmail.com>"]
+repository  = "https://github.com/kanarus/experiment-rusty_v8"
+description = "experiment for rust_v8"
+
+[dependencies]
+v8 = "130.0"
